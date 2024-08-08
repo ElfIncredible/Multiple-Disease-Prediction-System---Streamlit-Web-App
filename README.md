@@ -1,6 +1,7 @@
 # Multiple Disease Prediction System - Streamlit Web App
 This project is a web application for predicting various medical conditions using machine learning models. Built with Streamlit, the application allows users to input health-related data and receive predictions for four conditions: diabetes, heart disease, Parkinson's disease, and breast cancer. 
 The application utilizes pre-trained models and corresponding scalers to process and analyze user input, providing instant, actionable insights about the likelihood of each condition based on the data provided. The user-friendly interface includes a sidebar for easy navigation between different prediction pages, making it accessible and straightforward for users seeking health predictions.
+![image](https://github.com/user-attachments/assets/60861c68-639a-4c13-a0ba-705b706e1ce1)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -70,10 +71,12 @@ It also loads corresponding scalers to standardize the input data:
 ### Diabetes Prediction Page
 - **Inputs:** Collects values for features related to diabetes prediction (e.g., number of pregnancies, glucose level, blood pressure).
 - **Prediction:** On clicking the "Diabetes Test Result" button, the inputs are scaled and passed to the diabetes model to predict whether the person is diabetic or not.
+![image](https://github.com/user-attachments/assets/8cb9b011-ddf9-4888-83d6-a21a2ab1fe41)
 
 ### Heart Disease Prediction Page
 - **Inputs:** Collects values for features related to heart disease prediction (e.g., age, chest pain type, cholesterol levels).
 - **Prediction:** On clicking the "Heart Disease Test Result" button, the inputs are scaled and passed to the heart disease model to predict whether the person has heart disease or not.
+![image](https://github.com/user-attachments/assets/975e4c46-17d6-4f56-8d46-c792837da164)
 
 ### Parkinsons Disease Prediction Page
 - **Inputs:** Collects values for features related to Parkinson’s disease prediction (e.g., MDVP - Fo, Jitter percentage).
