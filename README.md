@@ -43,6 +43,7 @@ The web app is built using Streamlit, which offers an intuitive and interactive 
 - Validate the user interface and functionality to ensure a seamless user experience.
 
 ## Dataset
+The datasets are structured with a range of features specific to each condition, providing a detailed basis for training machine learning models to predict disease presence or risk. They include both numerical measurements and categorical indicators, which are used to build and validate predictive models for accurate health risk assessment.
 
 ## Streamlit Web App
 ### Imports
