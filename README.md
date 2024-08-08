@@ -83,9 +83,11 @@ It also loads corresponding scalers to standardize the input data:
 ### Parkinsons Disease Prediction Page
 - **Inputs:** Collects values for features related to Parkinson’s disease prediction (e.g., MDVP - Fo, Jitter percentage).
 - **Prediction:** On clicking the "Parkinson’s Test Result" button, the inputs are scaled and passed to the Parkinson’s disease model to predict whether the person has Parkinson’s disease or not.
+![image](https://github.com/user-attachments/assets/af4c09b5-bbbc-4210-a968-3b5d425e9025)
 
 ### Breast Cancer Prediction Page
 - **Inputs:** Collects values for features related to breast cancer prediction (e.g., mean radius, worst texture).
 - **Prediction:** On clicking the "Breast Cancer Test Result" button, the inputs are scaled and passed to the breast cancer model to predict whether the cancer is malignant or benign.
+![image](https://github.com/user-attachments/assets/25a35a22-14cf-457e-ae7d-3fc3af62ad5c)
 
 The web app is designed to provide users with a simple web interface to input their health data and receive predictions on the likelihood of having certain diseases based on pre-trained machine learning models. The inputs are processed, scaled, and then used to generate predictions, which are displayed as text results on the web page.
