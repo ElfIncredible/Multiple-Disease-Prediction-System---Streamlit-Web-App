@@ -67,6 +67,7 @@ It also loads corresponding scalers to standardize the input data:
 - Heart Disease Prediction
 - Parkinson’s Disease Prediction
 - Breast Cancer Prediction
+![image](https://github.com/user-attachments/assets/2ef2ca5f-72e0-4bde-b05e-bbdd04416109)
 
 ### Diabetes Prediction Page
 - **Inputs:** Collects values for features related to diabetes prediction (e.g., number of pregnancies, glucose level, blood pressure).
