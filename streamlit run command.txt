@@ -1,0 +1,1 @@
+streamlit run "I:\Work\Data Science\Multiple Disease Prediction System using Machine Learning in Python -  Streamlit Web App - Deployment\Multiple Disease Prediction System.py"
